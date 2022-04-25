@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/service/',
+    prefix: '/testing/service/',
     bare: 'https://api.astralofficial.gq/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
